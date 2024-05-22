@@ -7,3 +7,7 @@ This classification will help in early detection and treatment of diseases, pote
 
 The data I am using is  from Kaggle's Wheat Plant Diseases dataset:
 https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases/data
+
+## Current Status
+
+This project is currently under active development.
